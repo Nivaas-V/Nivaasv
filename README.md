@@ -1,6 +1,9 @@
  👋 Hi, I’m @Nivaas 
  I’m interested in ...software developing
  I’m currently learning ...about coding.+
+ 👋 Hi, I’m @Nivaas v
+ I’m interested in ..software developing
+ I’m currently learning ..about coding.+
  I’m looking to collaborate on ...developing fullpageos
 
 
